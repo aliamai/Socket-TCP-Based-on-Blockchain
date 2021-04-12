@@ -2,7 +2,7 @@
 import socket
 from blockchain import Blockchain
 # definisikan tujuan IP server
-ip = '172.89.2.19'
+ip = '127.0.0.1'
 # definisikan port dari server yang akan terhubung
 port = 12345
 # definisikan ukuran buffer untuk mengirimkan pesan
